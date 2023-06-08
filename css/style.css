@@ -1,0 +1,36 @@
+body{
+    direction: rtl
+}
+footer{
+    background-color: darkgrey;
+    margin: 0;
+    padding: 15px;
+    padding-right: 50px;
+}
+footer p {  margin: 0;
+    color: white;
+    
+}
+footer p a {
+  
+    color: black;
+}
+.image {
+    padding: 0.25rem;
+    background-color: var(--bs-body-bg);
+    border: var(--bs-border-width) solid var(--bs-border-color);
+    border-radius: var(--bs-border-radius);
+    width: 80%;
+    height: 80%;
+}
+.study-map {
+    margin-bottom: 20px;
+}
+
+.map-sec{
+    margin-top: 50px;
+}
+.the_map{
+    width:90%;
+    height: 500px;
+}
